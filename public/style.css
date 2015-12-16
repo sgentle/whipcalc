@@ -1,0 +1,6 @@
+div > span {
+  margin-right: 1em;
+}
+div:nth-of-type(1) > span:nth-of-type(1) {
+  margin-right: 0;
+}
